@@ -1,0 +1,163 @@
+@charset "UTF-8";
+body {
+    margin: 0;
+    padding: 0;
+    display: inline;
+    
+    background-color: #1B2838; 
+    color: white;
+    
+    overflow-x: hidden;
+}
+a p h1 h2 h3 {
+  margin: 0;
+}
+ul li a{
+  text-decoration: none;
+}
+a {
+  color:#9c9c9c;
+  text-decoration: none;
+}
+
+.container {
+  background-color: #1b1b36c4;
+  
+  max-width: 1920px;
+  width: 100%;
+  padding: 1%;
+}
+.container2 {
+  margin: 100px;
+  margin-bottom: 2%;
+  margin-left: 62%;
+  padding: 0 2px;
+  
+  float: left;
+  
+  font-size: smaller;
+  font-family: 'Times New Roman', Times, serif;
+}
+.nav-container li {
+  padding: 0;
+  margin: 20px;
+  display: inline-block;
+  
+  font-size: xx-large;
+}
+.releases .devs {
+  text-decoration: none;
+  list-style-type: none;
+}
+.bar {
+  list-style-type: none;
+}
+.body {
+  margin-left: 20%;
+  margin-right: 30%;
+  
+  text-align: justify;
+  font-size: large;
+}
+.logos {
+  width: 80%;
+  margin-left: 6%;
+}
+#color {
+  color: white;
+}
+/* ------------------------------------ */
+a:hover {
+  color: #0584F0;
+}
+.photos {
+  display: inline-table;
+  position: relative;
+  justify-content: center;
+
+  border: 1px;
+  border-radius: 20px;
+
+  text-align: center;
+  font-size: xx-large;
+
+  padding: 1%;
+  margin: 1%;
+  margin-left: 5%;
+
+  width: 24%;
+  height: 20%;
+
+}
+
+.img {
+  width: 100%;
+  height: 220px;
+
+  display: block;
+  position: relative;
+  padding: 0;
+
+  border-radius: 10px 10px 5px 5px;
+}
+.picture {
+  max-width: 100%;
+  max-block-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+/* ------------------------------------ */
+.B1 {
+  text-decoration: none;
+  text-align: justify;
+  font-size: medium;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  color:#9c9c9c;
+  background-color: #1B2838;
+
+  margin-left: 20%;
+  margin-right: 40%;
+}
+h1 {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+.C1 {
+  overflow-y: hidden;
+  overflow-x: scroll;
+
+  scroll-margin-right: 20%;
+  scroll-margin-left: 20%;
+  white-space: nowrap;
+}
+.L1 {
+  background-color: #0e233b;
+
+  display: inline;
+
+  height: 300;
+  width: 600;
+}
+strong {
+  color: #0584F0;
+
+  padding: 1%;
+}
+.buttom {
+  margin-left: 80%;
+
+  padding: 10%;
+}
+.gifs {
+  width: 100%;
+
+  padding: 1%;
+}
+.imgT {
+  width: 100%;
+
+  padding: 1%;
+}
